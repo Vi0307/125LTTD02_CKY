@@ -3568,6 +3568,7 @@ drawable ic_clear_black_24
 drawable ic_clock_black_24dp
 drawable ic_expand_less_22px
 drawable ic_expand_more_22px
+drawable ic_honda_logo
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -3762,6 +3763,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnBack
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -4157,7 +4159,10 @@ id transition_transform
 id triangle
 id tvDate
 id tvDealer
+id tvDistance
 id tvKm
+id tvRating
+id tvShopName
 id unchecked
 id uniform
 id unlabeled
@@ -4301,6 +4306,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_maintenance_detail
 layout activity_maintenance_history_screen
 layout custom_dialog
 layout design_bottom_navigation_item

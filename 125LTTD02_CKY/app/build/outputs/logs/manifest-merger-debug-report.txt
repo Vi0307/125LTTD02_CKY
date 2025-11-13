@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\admin\.gradle\caches\8.13\transforms\0507d2f90fe1cea4beecf23da95f6c11\transformed\material-1.13.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\admin\.gradle\caches\8.13\transforms\ed9267c2f06c2be55b2e37706175211a\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\admin\.gradle\caches\8.13\transforms\b36d6092087128a58129702649a4bf84\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
@@ -54,8 +54,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\admin\.
 	xmlns:android
 		ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:5:5-25:19
-INJECTED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:5:5-25:19
+ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:5:5-27:19
+INJECTED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:5:5-27:19
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\admin\.gradle\caches\8.13\transforms\0507d2f90fe1cea4beecf23da95f6c11\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.13.0] C:\Users\admin\.gradle\caches\8.13\transforms\0507d2f90fe1cea4beecf23da95f6c11\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\admin\.gradle\caches\8.13\transforms\ed9267c2f06c2be55b2e37706175211a\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
@@ -92,12 +92,12 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ad
 		ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:13:9-52
 	android:dataExtractionRules
 		ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.a125lttd02_cky.Maintenance_History_Screen
+activity#com.example.a125lttd02_cky.Maintenance_Detail_Activity
 ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:14:9-24:20
 	android:exported
 		ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:15:13-55
+		ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:15:13-56
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
@@ -108,6 +108,10 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
 		ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.a125lttd02_cky.Maintenance_History_Screen
+ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:25:9-64
+	android:name
+		ADDED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml:25:19-61
 uses-sdk
 INJECTED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\3.1_Ky1_Nam3\LapTrinhTrenDTDD\125LTTD02_CKY\125LTTD02_CKY\app\src\main\AndroidManifest.xml

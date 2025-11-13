@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme._125LTTD02_CKY">
         <activity
-            android:name=".Maintenance_History_Screen"
+            android:name=".Maintenance_Detail_Activity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,6 +22,8 @@
 
 
         </activity>
+        <activity android:name=".Maintenance_History_Screen" />
+
     </application>
 
 </manifest>

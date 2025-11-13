@@ -28,7 +28,7 @@
         android:testOnly="true"
         android:theme="@style/Theme._125LTTD02_CKY" >
         <activity
-            android:name="com.example.a125lttd02_cky.Maintenance_History_Screen"
+            android:name="com.example.a125lttd02_cky.Maintenance_Detail_Activity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -36,6 +36,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.a125lttd02_cky.Maintenance_History_Screen" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
