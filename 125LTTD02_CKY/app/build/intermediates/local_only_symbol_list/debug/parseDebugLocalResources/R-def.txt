@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color red
+color white
+drawable arrow_back_icon
+drawable arrow_forward_icon
+drawable build_icon
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable today_24dp_icon
+id main
+id recyclerViewHistory
+id toolbar
+id tvDate
+id tvDealer
+id tvKm
+layout activity_main
+layout activity_maintenance_history_screen
+layout item_maintenance_history
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme._125LTTD02_CKY
+style Theme._125LTTD02_CKY
+xml backup_rules
+xml data_extraction_rules
